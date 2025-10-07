@@ -1,4 +1,3 @@
 def text():
     return message
 
-
